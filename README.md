@@ -31,3 +31,20 @@
 - Программа позволяет сохранять полученные ("отрендеренные") изображения в файл в форматах bmp и jpeg
 - Программа позволяет по специальной кнопке записывать небольшие "скринкасты" - текущие пользовательские аффинные преобразования загруженного объекта в gif-анимацию (640x480, 10fps, 5s)
 
+<br/><br/>
+
+<details>
+    <summary>Не много скриншотов 3dViewer</summary>
+<br/>
+
+- ![](./ScreenShot_3dViewer/screen_1.jpg)
+<br/><br/><br/>
+
+- ![](./ScreenShot_3dViewer/screen_2.jpg)
+<br/><br/><br/>
+
+- ![](./ScreenShot_3dViewer/screen_3.jpg)
+<br/><br/><br/>
+
+- ![](./ScreenShot_3dViewer/screen_4.jpg)
+</details>
